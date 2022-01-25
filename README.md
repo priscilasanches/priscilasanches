@@ -2,7 +2,7 @@
 ### Bem-vinda(o) ao meu perfil GitHub!
 
 <p>🔭 Hoje trabalho na área de Recursos Humanos, realizando transição de carreira para a área de desenvolvimento</p>
-<p>🌱 Estudando HTML, CSS e JavaScript</p>
+<p>🌱 Estudando JavaScript e React</p>
 
 
 <div align="center">
