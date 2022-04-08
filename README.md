@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Priscila Sanches
 ### Bem-vinda(o) ao meu perfil GitHub!
 
-<p>🔭 Hoje trabalho na área de Recursos Humanos, realizando transição de carreira para a área de desenvolvimento</p>
 <p>🌱 Estudando HTML, CSS, JavaScript e PHP</p>
 
 
