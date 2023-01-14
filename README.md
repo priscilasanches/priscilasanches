@@ -1,7 +1,10 @@
-## Olá! Eu sou a Priscila Sanches
-### Bem-vinda(o) ao meu perfil GitHub!
+## Olá! 
+### Seja bem-vinda(o) ao meu perfil no GitHub!
 
+<p>    Formada em Direito com MBA em Gestão Estratégica de Pessoas</p>
+<p>    Cursando atualmente Tecnologia em Banco de Dados e pós graduação em Tecnologias e Inovações Web, ambos no SENAC</p>
 <p>🌱 Estudando JavaScript, Python e SQL</p>
+
   
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
