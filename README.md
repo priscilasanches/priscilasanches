@@ -12,13 +12,13 @@ Algumas informações sobre esta pessoa que vos fala (ou escreve):
   
 <div align="center">
   <a href="https://github.com/priscilasanches">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel/api/top-langs/?username=priscilasanches&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel/api/top-langs/?username=priscilasanches&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="sql server" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">      
+  <img align="center" alt="sql server" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">      
   <img align="center" alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
