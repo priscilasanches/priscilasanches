@@ -3,7 +3,7 @@
 Algumas informações sobre esta pessoa que vos fala (ou escreve):
 - Meu nome é Priscila (nenhuma novidade até aqui)
 - Sou bacharel em Direito, aprovada na OAB, mas sem vontade de advogar (fazer o que, às vezes mudamos de ideia depois de 5 anos de graduação)
-- Possuo MBA em Gestão Estratégica de Pessoas, área em que trabalhei por mais de 10 anos
+- Possuo MBA em Gestão Estratégica de Pessoas, área em que trabalhei por mais de 10 anos. Continuo atuando na área de Gestão de Pessoas, porém em uma área mais técnica.
 - Estou cursando superior de Tecnologia em Banco de Dados e pós graduação em Tecnologias e Inovações Web
 - Estudando atualmente, de forma livre, JavaScript, Python e SQL
 - Pratico kung-fu há mais de 10 anos (segundo tuen no estilo louva deus)
@@ -12,7 +12,7 @@ Algumas informações sobre esta pessoa que vos fala (ou escreve):
   
 <div align="center">
   <a href="https://github.com/priscilasanches">
-  <img height="180em" src="https://github-readme-stats.vercel/api/top-langs/?username=priscilasanches&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme.vercel/api/top-langs/?username=priscilasanches&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   
