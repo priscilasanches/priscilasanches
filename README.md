@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Priscila Sanches
 ### Bem-vinda(o) ao meu perfil GitHub!
 
-<p>🌱 Estudando HTML, CSS, JavaScript e PHP</p>
+<p>🌱 Estudando JavaScript, Python e SQL</p>
 
 
 <div align="center">
