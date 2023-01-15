@@ -9,7 +9,16 @@ Algumas informações sobre esta pessoa que vos fala (ou escreve):
 - Pratico kung-fu há mais de 10 anos (segundo tuen no estilo louva deus)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------  
-  
+
+<div align="center">
+  <a href="https://github.com/Walter-Alipio">
+  <img height="160em" src="github-readme-stats-x48j-priscilasanches.vercel.app
+/api?username=priscilasanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-x48j-priscilasanches.vercel.app
+/api/top-langs/?username=priscilasanches&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="sql server" height="30" src="https://user-images.githubusercontent.com/90432175/212498052-979d19de-67f3-4b23-bb83-5d86c13af577.png">
