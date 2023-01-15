@@ -12,10 +12,8 @@ Algumas informações sobre esta pessoa que vos fala (ou escreve):
 
 <div align="center">
   <a href="https://github.com/Walter-Alipio">
-  <img height="160em" src="github-readme-stats-x48j-priscilasanches.vercel.app
-/api?username=priscilasanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-x48j-priscilasanches.vercel.app
-/api/top-langs/?username=priscilasanches&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="http://github-readme-stats-9k48-priscilasanches.vercel.app/api?username=priscilasanches&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="http://github-readme-stats-9k48-priscilasanches.vercel.app/api/top-langs/?username=priscilasanches&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
