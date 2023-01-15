@@ -11,9 +11,7 @@ Algumas informações sobre esta pessoa que vos fala (ou escreve):
 --------------------------------------------------------------------------------------------------------------------------------------------------  
   
 <div align="center">
-  <a href="https://github.com/priscilasanches">
-  <img align="center" alt="python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  </a>
+  <a href="[https://github.com/priscilasanches](https://github-readme-stats.vercel.app/api?username=anuraghazra)"></a>
 </div>
 
   
