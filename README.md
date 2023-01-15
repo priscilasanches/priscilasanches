@@ -10,11 +10,6 @@ Algumas informações sobre esta pessoa que vos fala (ou escreve):
 
 --------------------------------------------------------------------------------------------------------------------------------------------------  
   
-<div align="center">
-  <a href="[https://github.com/priscilasanches](https://github-readme-stats.vercel.app/api?username=anuraghazra)"></a>
-</div>
-
-  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="sql server" height="30" src="https://user-images.githubusercontent.com/90432175/212498052-979d19de-67f3-4b23-bb83-5d86c13af577.png">
