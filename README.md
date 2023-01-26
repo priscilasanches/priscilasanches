@@ -19,8 +19,9 @@ Algumas informações sobre esta pessoa que vos fala (ou escreve):
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="sql server" height="30" src="https://user-images.githubusercontent.com/90432175/212498052-979d19de-67f3-4b23-bb83-5d86c13af577.png">
   <img align="center" alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="NodeJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="sql server" height="30" src="https://user-images.githubusercontent.com/90432175/212498052-979d19de-67f3-4b23-bb83-5d86c13af577.png">
   <img align="center" alt="HTML" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>  
