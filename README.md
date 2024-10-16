@@ -30,13 +30,6 @@ Iniciei meu estudos na área de tecnologia no final de 2021, primeiramente de fo
 
 
 
-## 🥷🏼Um pouco mais sobre mim🏊🏼‍♀️
-Amante dos esportes, pratico kung fu há 12 anos (atualmente 2º tuen no estilo louva-deus) e mais recentemente natação, além de ocasionais corridas e muuuitas caminhadas.
-
-Adoro ficar em casa, onde curto a companhia do meu marido, um casal de filhos felinos e das  plantas de estimação.
-
-
-
 ## GitHub stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=priscilasanches&theme=synthwave)
 
